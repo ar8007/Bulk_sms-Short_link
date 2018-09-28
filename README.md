@@ -1,12 +1,12 @@
 Bulk_sms-Short_link
- Software
-> Front end 
+ 
+> Front end tools
 * Html
 * Css
 * JavaScript
 * Jquery
 * Bootstrap
-> Back end 
+> Back end tols
 * Php
 * Codeigniter
 * Phpmyadmin
