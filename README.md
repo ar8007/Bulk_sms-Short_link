@@ -1,18 +1,14 @@
 Bulk_sms-Short_link
- 
+ > Back end tols
+* Php
+* Codeigniter
+* Phpmyadmin
 > Front end tools
 * Html
 * Css
 * JavaScript
 * Jquery
 * Bootstrap
-> Back end tols
-* Php
-* Codeigniter
-* Phpmyadmin
-
-
-
 
 Through this web application a individual can send bulk SMS.
 * If they want to link to the message, they can do it but the link is in the short form of the actual link. 
